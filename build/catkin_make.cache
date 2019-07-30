@@ -1,0 +1,2 @@
+robot_tracker
+-DCATKIN_DEVEL_PREFIX=/home/dev/FollowBot/devel -DCMAKE_INSTALL_PREFIX=/home/dev/FollowBot/install -G Unix Makefiles

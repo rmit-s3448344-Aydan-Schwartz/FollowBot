@@ -1,0 +1,10 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/robot_tracker_generate_messages_nodejs"
+  "/home/dev/FollowBot/devel/share/gennodejs/ros/robot_tracker/msg/VestData.js"
+  "/home/dev/FollowBot/devel/share/gennodejs/ros/robot_tracker/msg/FaceData.js"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/robot_tracker_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
